@@ -80,10 +80,10 @@ int main(){
         stack1.push();
     }
 
-    //for (int i = 0; i < qtd; i++)
-    //{
-    //    stack2.push();
-    //}
+    for (int i = 0; i < qtd; i++)
+    {
+       stack2.push();
+    }
 
 
     stack1.print_stack();
